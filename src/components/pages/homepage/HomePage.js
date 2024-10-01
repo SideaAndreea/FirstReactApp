@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const HomePage = () => {
   return (
     <>
-      <h1>Hello Andreea</h1>
+      <h1>Hello</h1>
       <div className="photoButton">
         <Link to="/Photos">
           <button>Button for Photos</button>
